@@ -25,8 +25,8 @@
         }
 
         .interactable:hover {
-            stroke: deeppink;
-            stroke-width: 3px;
+            stroke: gold;
+            stroke-width: 3.5px;
         }
 
         .mask {
@@ -34,7 +34,7 @@
         }
 
         #clipshadows {
-            stroke: orange;
+            stroke: gold;
         }
 
         #breadboard-outlines,
